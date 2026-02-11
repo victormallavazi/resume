@@ -1,129 +1,101 @@
-# Luis Machado Reis
+# Vinicius Pimenta Rossi
 
-**Location:** Balneário Piçarras, Santa Catarina, Brazil  
-**Phone:** +55 (34) 99889-5371  
-**Email:** luis.reis@singularideas.com.br  
-**LinkedIn:** [linkedin.com/in/luismachadoreis](https://linkedin.com/in/luismachadoreis)  
-**GitHub:** [github.com/luismr](https://github.com/luismr)  
-**Website:** [luismachadoreis.dev](https://luismachadoreis.dev)  
+**Location:** Barra Velha, Santa Catarina, Brazil  
+**Phone:** +55 (34) 99215-0307  
+**Email:** viniciusprossi18@gmail.com 
+**LinkedIn:** [linkedin.com/in/vinicius-pimenta-rossi/](https://www.linkedin.com/in/vinicius-pimenta-rossi/)  
+**GitHub:** [github.com/VRossi18](https://github.com/VRossi18)   
 
 ## Professional Summary
 
-Experienced Software Architect and Engineering Leader with over 20 years of hands-on experience designing, modernizing, and scaling high-performance, resilient systems. Proven track record in fintech, SaaS, and telecom, with deep expertise in cloud-native solutions (AWS, GCP), microservices, DevOps, and full-stack delivery. Skilled in leading global teams, implementing CI/CD pipelines, and aligning architecture with business impact. Passionate about leveraging AI tools and developing agent-based solutions to support engineering and architecture teams, significantly increasing productivity and accelerating delivery pace.
+Experienced Software Developer and game developer with over 9 years of hands-on experience, and scaling high-performance systems. Proven track record in fintech, SaaS, games, and health insurance systems with expertise in JavaScript, TypesScript, NodeJs, React, C#, .NET framework, microservices. Able to work with CI/CD pipelines, clean code, SOLID pinciples, AI Tools to increase productivity.
 
 ## Core Competencies
 
-- Software Architecture & Modernization  
-- Backend & Full-Stack Engineering (Java, Spring Boot, Python, .NET, React, Angular, Vue)  
-- Cloud Computing (AWS, GCP), Kubernetes, Docker  
-- CI/CD & DevOps (GitHub Actions, Jenkins, Bamboo, Terraform, Ansible)  
-- Frontend Development with React, Vue, Angular, TypeScript  
-- Microservices & Event-Driven Systems (RabbitMQ, Kafka)  
-- Scalable, Secure Systems Design (OAuth2, OpenID, JWT, PCI DSS)  
-- Technical Leadership & Team Mentorship  
-- Performance Optimization & Observability  
+- Backend & Full-Stack Engineering (JavaScript, TypeScript, C#, NodeJs, python)
+- GameDevelopment (Unity, Godot)  
+- Cloud Computing (AWS, Docker, Podman)  
+- CI/CD & DevOps (GitHub Actions, Jenkins)  
+- Frontend Development with React, Angular, TypeScript, Tailwind  
+- Microservices & Event-Driven Systems (RabbitMQ)  
+- Scalable, Secure Systems Design (OAuth2, JWT)  
+- Team Mentorship  
+- Performance Optimization & Observability (Datadog) 
 - Agile Development, Remote Team Collaboration
 
 ## Professional Experience
 
-### **Sears Home Services** – Senior Software Engineering Manager  
-**Jul 2025 – now | Chicago, USA**  
+### **Mouts** - Senior Developer
+**Jul 2025 - Feb 2026 | Blumenau - SC, Brazil (remote)**
+- Maintanace, evolution and optimization using Node, Angular, SQL, C#, Datadog, podman 
+- Implementing AI tools in MCP Servers
+- Automate deploy and unit tests
 
-#### **Service Order Management** – Software Architect
-- Create, Update, Reschedule, Cancel, Lookup service orders
-- Authorizer Service: Client ID and bearer token management
-- Provide closer architecture support for Business/Product areas
-- Provide closer support for SHI (Sears Holding India) Engineers
+### **iBlue Consulting** - FullStack Developer
+**Jan 2025 - Jun 2026 | Rio de Janiera - RJ, Brazil (remote)**
+- Developed complete librarys for internal teams (Node, React)
+- Otimization with AWS enviroment (Lambda, ECS2, CloudWatch, CloudTrail)
+- Developed complete RPA in BPO and financial reports (Node, Python)
+- Team mentorship in Personal relations and Fullstack development
 
-#### **SHSAI** – Software Engineering Manager
-- AI innovation engine for Sears Home Services, focused on:
-- Agent Development & Orchestration
-- Machine Learning & NLP Solutions
-- AI-Powered Tooling for Technicians
-- Conversational AI (Chat Assistants, Voice AI)
-- Intelligent Routing & Scheduling
+### **NTT DATA Europe & LATAM** - FullStack Developer
+**Out 2023 - Jan 2025 | Uberlândia - MG, Brazil (hybrid)**
+- Developed crucial funcionalities in fintechs (React, Node, C#, Firebase, MongoDb, Docker, AWS)
+- Otimization on customer's problem solving 
+- Team mentorship in React development
 
-### **Trustly** – Head of Software Architecture  
-**Sep 2022 – Feb 2025 | Vitória, Brazil**  
-- Led cloud-native architecture of real-time payment platform (Java, AWS, Spring Boot)  
-- Designed microservices, CI/CD (GitHub Actions, Bamboo), and automated infrastructure  
-- Achieved 99.99% uptime during high-traffic events like the Super Bowl  
-- Reduced transaction latency by 40% and improved overall reliability  
+### **PisomTech** - Senior FullCycle developer
+**Jul 2022 - Aug 2023 | Uberlândia - MG, Brazil (on-site)**
+- Developed crucial new features in fintech's systems (Angular, Node, Postgres, Rabbitmq)
+- Deployment with containers (Docker)
+- Techinical/Business analysis to kick start new products
+- Customer feedback analysis
 
-### **Aurea Software** – Product Chief Architect  
-**Sep 2015 – Aug 2022 | Austin, TX (Remote)**  
-- Modernized enterprise SaaS products including Lyris, Prysm, FogBugz, DevFactory  
-- Migrated systems to AWS, introduced Docker/ECS and infrastructure-as-code  
-- Led frontend modernization with React, TypeScript, and component architecture  
-- Delivered DevOps pipelines (Jenkins, GitHub Actions) and code quality automation  
-
-### **SingularIdeas** – Senior Software Specialist  
-**Apr 2005 – Sep 2022 | Uberlândia, Brazil**  
-- Designed scalable SaaS applications using Java, React, and cloud services  
-- Built full-stack apps with responsive UIs in Angular, Vue, and React  
-- Developed backend APIs, CI/CD pipelines, and cloud-native automation  
-
-### **LigFlat Telecom** – Founder & Software Architect  
-**Aug 2013 – Dec 2019 | Uberlândia, Brazil**  
-- Developed complete OSS/BSS platform, integrating VoIP, billing, and CRM  
-- Architected systems using Java, MySQL, and telecom protocols (SMPP, SIP)  
-- Automated network provisioning with Ansible and deployed via Bamboo  
-
-### **Algar Telecom** – QA Engineering Manager  
-**Jul 2008 – Dec 2012 | Uberlândia, Brazil**  
-- Managed software quality, QA processes, and platform optimization  
-- Delivered stable portals and ecommerce platforms with .NET and Oracle  
+### **Wex** - FullStack deeloper
+**Jun 2022 - Apr 2023 | Portland - Maine, USA (remote)**
+- Developed crucial features and evolution for payment methods in health insurance systems
+- Team Mentorship in C# and English for Brazilians
 
 ## Education
 
-**Bachelor of Computer Science**  
-Universidade da Região da Campanha (1997–2000)
+**Bachelor of Information systems**  
+Universidade Federal de Uberlândia (UFU)
 
 ## Certifications
 
-- **SCEA – Sun Certified Enterprise Architect**  
-- **SCJP 6 – Sun Certified Java Programmer**  
-- **EF SET C2 Proficient – English Certification**  
-- **IBM AIX Administrator / User**  
-- **Conectiva Linux Administrator I & II**
+- **Model Context Protocol (MCP): Hands-On with Agentic AI**
+- **Workshop IA na prática com n8n**
+- **Web3 week 6 edição**
+- **React: Using TypeScript**
+- **Node.js: Design Patterns**
+- **Node.js: Security**
+- **JavaScript: Patterns**
 
 ## Languages
 
 - Portuguese: Native  
-- English: Fluent (C2 – Proficient)
+- English: Native
 
 ## Projects & Portfolio
 
-- **[Real-Time Flight Tracker](https://github.com/luismr/realtime-flight-tracker)**  
-  *Java, Python, TypeScript, React, Kafka*  
-  Scalable architecture to process and visualize live flight events in real-time.
+- **[Web3-Donations](https://github.com/VRossi18/web3-donations)**
+  *Solidity, SmartContracts, blockchain*
+  Crypto donation system.
 
-- **[Flight Tracker App](https://github.com/luismr/flight-tracker-event-app)**  
-  *React, TypeScript*  
-  Interactive frontend interface for flight event visualization.
+- **[Web3-Dapp](https://github.com/VRossi18/web3-donations-dapp)**
+  *React, Web3, CSS*
+  Crypto donation system.
 
-- **[Heimdall Realm](https://github.com/luismr/heimdall)**  
-  *TypeScript, Express, Serverless, JWT*  
-  Secure access control service built on a serverless stack with JWT authentication.
-
-- **[Blueprint Prompts MCP Server](https://github.com/luismr/blueprint-prompts)**  
-  *TypeScript, Node.js, Claude API, Cursor Integration*  
-  Blueprint-based prompt management server to support AI workflows using Claude and Cursor.
-
-- **[Homelabs](https://github.com/luismr/homelabs)**  
-  *Vagrant, Kubernetes, Terraform, Grafana, Loki, Promtail, Cloudflare Tunnel*  
-  Infrastructure project to explore how to use a homelab in-house, exposing services using Cloudflare Tunnel.
-
-- **[Pudim Score Calculator](https://github.com/luismr/pudim-dev-calculator)** | [Live Demo](https://pudim.dev)  
-  *React, TypeScript, Node.js, shadcn/ui*  
-  A personal, lightweight (and good-humored) Next.js project that demonstrates how to build a service consuming the GitHub API, ranking developers with dessert-themed titles—just for fun! The live demo is always running in my homelab (yes, that's alive).
+- **[Crypto-bot](https://github.com/VRossi18/bot-crypto)**
+  *NodeJs, Crypto Market*
+  Automated purchase and selling of crypto coins
 
 ## Tools & Technologies
 
-**Languages & Frameworks:** Java, Spring Boot, .NET, Python, JavaScript, TypeScript, React, Vue, Angular  
-**Cloud & DevOps:** AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Bamboo, GitHub Actions  
-**Architecture:** Microservices, Modular Monolith, Serverless, Event-Driven  
-**Databases:** PostgreSQL, MySQL, SQL Server, Oracle  
-**Messaging & Integration:** Kafka, RabbitMQ, ActiveMQ, SQS  
-**Security:** OAuth2, OpenID, JWT, PCI DSS  
-**Monitoring:** Prometheus, Grafana, AWS CloudWatch
+**Languages & Frameworks:** NodeJs, .NET, Python, JavaScript, TypeScript, React, Angular  
+**Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions  
+**Architecture:** Microservices, Modular Monolith, Serverless 
+**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Firebase  
+**Messaging & Integration:** RabbitMQ, SQS  
+**Security:** OAuth2, JWT, Keycloack
+**Monitoring:** Datadog, AWS CloudWatch
