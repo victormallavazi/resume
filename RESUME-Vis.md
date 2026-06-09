@@ -1,10 +1,10 @@
-# Vinicius Pimenta Rossi
+# Victor Mallavazi
 
-**Location:** Barra Velha, Santa Catarina, Brazil  
-**Phone:** +55 (34) 99215-0307  
-**Email:** viniciusprossi18@gmail.com 
-**LinkedIn:** [linkedin.com/in/vinicius-pimenta-rossi/](https://www.linkedin.com/in/vinicius-pimenta-rossi/)  
-**GitHub:** [github.com/VRossi18](https://github.com/VRossi18)   
+**Location:** São Paulo, São Paulo, Brazil
+**Phone:** +55 (14) 98106-9411
+**Email:** [victormallavazi@gmail.com](mailto:victormallavazi@gmail.com)
+**LinkedIn:** [linkedin.com/in/victormallavazi/](https://www.linkedin.com/in/victormallavazi/)
+**GitHub:** [github.com/seu-usuario](https://github.com/victormallavazi)  
 
 ## Professional Summary
 
