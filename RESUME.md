@@ -1,8 +1,10 @@
 # Victor Silva Mallavazi
 
-📍 São Paulo, Brazil | 📱 +55 (14) 98106-9411 | ✉️ victormallavazi@gmail.com
-
-💼 linkedin.com/in/victormallavazi | 💻 github.com/victormallavazi
+**Location:** São Paulo, São Paulo, Brazil  
+**Phone:** +55 (14) 98106-9411  
+**Email:** [victormallavazi@gmail.com](mailto:victormallavazi@gmail.com)  
+**LinkedIn:** [linkedin.com/in/victormallavazi/](https://www.linkedin.com/in/victormallavazi/)  
+**GitHub:** [github.com/victormallavazi](https://github.com/victormallavazi)
 
 ## Professional Summary
 
