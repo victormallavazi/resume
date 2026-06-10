@@ -1,6 +1,5 @@
 # Victor Mallavazi
 
-| | |
 |---|---|
 | 📍 Location | São Paulo, Brazil |
 | 📱 Phone | +55 (14) 98106-9411 |
