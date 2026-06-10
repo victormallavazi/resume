@@ -1,10 +1,12 @@
 # Victor Mallavazi
 
-**Location:** São Paulo, São Paulo, Brazil
-**Phone:** +55 (14) 98106-9411
-**Email:** [victormallavazi@gmail.com](mailto:victormallavazi@gmail.com)
-**LinkedIn:** [linkedin.com/in/victormallavazi/](https://www.linkedin.com/in/victormallavazi/)
-**GitHub:** [github.com/seu-usuario](https://github.com/victormallavazi)  
+| | |
+|---|---|
+| 📍 Location | São Paulo, Brazil |
+| 📱 Phone | +55 (14) 98106-9411 |
+| ✉️ Email | victormallavazi@gmail.com |
+| 💼 LinkedIn | linkedin.com/in/victormallavazi |
+| 💻 GitHub | github.com/victormallavazi |
 
 ## Professional Summary
 
@@ -52,25 +54,11 @@ Product Owner with 5+ years of experience leading enterprise technology initiati
 
 ## Education
 
-**Bachelor of Data Science**  
-UNIVESP (Virtual University of the State of São Paulo)  
-*Jul 2025 - Dec 2028*
-
-**MBA in Agribusiness**  
-USP (University of São Paulo)  
-*Oct 2021 - Jul 2023*
-
-**Technologist Degree in Management**  
-UNIVESP (Virtual University of the State of São Paulo)  
-*Mar 2018 - Jul 2020*
-
-**Research Assistant in International Trade**  
-University of Salamanca (USAL), Spain  
-*Nov 2015 - Apr 2016*
-
-**Bachelor of International Relations**  
-UNESP (São Paulo State University)  
-*Mar 2013 - Dec 2017*
+- Bachelor of Data Science, UNIVESP (2025 – 2028)
+- MBA in Agribusiness, University of São Paulo - USP (2021 – 2023)
+- Technologist Degree in Management, UNIVESP (2018 – 2020)
+- Research Assistant in International Trade, University of Salamanca - Spain (2015 – 2016)
+- Bachelor of International Relations, UNESP (2013 – 2017)
 
 ## Certifications
 
